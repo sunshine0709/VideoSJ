@@ -1,6 +1,6 @@
 {
   "name": "videosj",
-  "description": "Shorten a media file by splitting it into parts and joining them back together, without re-encoding.",
+  "description": "A video splitter and joiner",
   "version": "1.0.0",
   "scripts": {
     "build": "concurrently \"npm run build:main\" \"npm run build:renderer\"",
