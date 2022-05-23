@@ -5,14 +5,13 @@ See the bottom of this document for the declaration of the reference variables
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Issues][issues-shield]][issues-url]
 [![GPL-3.0 License][license-shield]][license-url]
-![GitHub package.json version](https://img.shields.io/github/package-json/v/bryght7/videosj)
-[![GitHub all releases](https://img.shields.io/github/downloads/bryght7/videoSJ/total)](https://github.com/Bryght7/videoSJ/releases)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/sunshine0709/VideoSJ)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <p align="center">
-    <img src="https://github.com/Bryght7/videoSJ/blob/main/assets/icons/96x96.png?raw=true" />
+    <img src="https://github.com/sunshine0709/VideoSJ/blob/main/assets/icons/96x96.png?raw=true" />
   </p>
   <h2 align="center">VideoSJ</h2>
   <p align="center">
@@ -34,7 +33,7 @@ See the bottom of this document for the declaration of the reference variables
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [`git clone https://github.com/Bryght7/videoSJ.git`](#git-clone-httpsgithubcombryght7videosjgit)
+  - [`git clone https://github.com/sunshine0709/VideoSJ.git`](#git-clone-https://github.com/sunshine0709/VideoSJ.git)
   - [`npm install`](#npm-install)
 - [Starting Development](#starting-development)
 - [Packaging for Production](#packaging-for-production)
@@ -73,7 +72,7 @@ _This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under 
 
 ### Installation
 
-### `git clone https://github.com/Bryght7/videoSJ.git`
+### `git clone https://github.com/sunshine0709/VideoSJ.git`
 Clones the repository.
 
 ### `npm install`
@@ -116,7 +115,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[issues-shield]: https://img.shields.io/github/issues/Bryght7/videosj
-[issues-url]: https://github.com/Bryght7/videosj/issues
-[license-shield]: https://img.shields.io/github/license/Bryght7/videosj
-[license-url]: https://github.com/Bryght7/videosj/blob/master/LICENSE.md
+[issues-shield]: https://img.shields.io/github/issues/sunshine0709/VideoSJ
+[issues-url]: https://github.com/sunshine0709/VideoSJ/issues
+[license-shield]: https://img.shields.io/github/license/sunshine0709/VideoSJ
+[license-url]: https://github.com/sunshine0709/VideoSJ/blob/master/LICENSE.md

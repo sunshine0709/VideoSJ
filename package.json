@@ -91,23 +91,19 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "Bryght7",
-      "repo": "videoSJ"
+      "owner": "Andrii",
+      "repo": "VideoSJ"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bryght7/videoSJ.git"
+    "url": "git+https://github.com/sunshine0709/VideoSJ.git"
   },
   "author": {
-    "name": "Bryan Lee",
-    "url": "https://www.buymeacoffee.com/Bryght7"
+    "name": "Andrii Savchenko"
   },
   "contributors": [],
   "license": "GPL-3.0-only",
-  "bugs": {
-    "url": "https://github.com/Bryght7/videoSJ/issues"
-  },
   "keywords": [
     "electron",
     "react",
@@ -118,7 +114,6 @@
     "splitter",
     "joiner"
   ],
-  "homepage": "https://www.buymeacoffee.com/Bryght7",
   "jest": {
     "testURL": "http://localhost/",
     "testEnvironment": "jsdom",
